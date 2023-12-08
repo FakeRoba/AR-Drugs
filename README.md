@@ -11,6 +11,7 @@ The price-performance ratio of SecureGate Anticheat is on point compared to othe
 
 ### Protection
 SecureGate Anticheat constantly monitors the game, and any suspicious activity is immediately removed from the server. Additionally, SecureGate Anticheat offers comprehensive and powerful tools to prevent modders.
+https://discord.gg/8TwcyAXVWU
 
 ## Description
 Obtain illegal drugs script, made for fivem roleplay server(s).
